@@ -1,0 +1,247 @@
+.main_menu_item {
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)) drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.main_menu a {
+    color: #212832;
+}
+
+.main_menu_link {
+    color: #212832;
+}
+
+.nav_button {
+    background: #CAA892;
+
+}
+
+.nav_button a {
+    color: white;
+}
+
+.nav_button:hover {
+    background-color: #cbb8ac;
+}
+
+.modern_interior_text {
+    color: #646464;
+}
+
+.modern_interior_header {
+    color: #212121;
+}
+
+.modern_interior_info {
+    color: #646464;
+}
+
+.modern_interior_button {
+    color: white;
+    background: #37806B;
+}
+
+.modern_interior_button:hover {
+    background: white;
+    color: #37806B;
+}
+
+.footer_group {
+    background: #F8F8F8;
+}
+
+.footer_img_text {
+    color: #646464;
+}
+
+.footer_links {
+    color: #212121;
+}
+
+.fotter_company {
+    color: #212121;
+}
+
+.fotter_contact {
+    color: #212121;
+}
+
+.fotter_follow {
+    color: #111111;
+}
+
+.footer_year_info {
+    color: #646464;
+}
+
+.ui-progress span.ui-label {
+    color: rgba(0, 0, 0, 0.6);
+    text-shadow: rgba(255, 255, 255, 0.45) 0 1px 0px;
+}
+
+.what_we_do_title {
+    color: #646464;
+}
+
+.list_item {
+    background: #37806B;
+    color: white;
+}
+
+.list_item:hover {
+    background: white;
+    color: #37806B;
+}
+
+.about_subtitle {
+    color: #646464;
+}
+
+.about_text {
+    color: #646464;
+}
+
+.about_button {
+    background: #37806B;
+    color: white;
+}
+
+.about_button:hover {
+    background: white;
+    color: #37806B;
+}
+
+.testimonials_text {
+    color: #646464;
+}
+
+.slider_prev {
+    box-shadow: -1px 3px 10px rgba(0, 0, 0, 0.3);
+}
+
+.slider_prev:hover {
+    background: #37806B;
+    color: white;
+}
+
+.slider_next {
+    box-shadow: -1px 3px 10px rgba(0, 0, 0, 0.3);
+
+}
+
+.slider_next:hover {
+    background: #37806B;
+    color: white;
+}
+
+.slider_line {
+    background: #ffffff;
+}
+
+.news_subtitle {
+    color: rgb(150, 147, 147);
+
+}
+
+.news_title {
+    color: #111111;
+}
+
+.news_block_button {
+    background: #37806B;
+    color: white;
+
+}
+
+.news_block_button:hover {
+    background: white;
+    color: #37806B;
+
+}
+
+.news_block1_info:hover,
+.news_block2_info:hover {
+    background: #F8F8F8;
+
+}
+
+.sign_up_text {
+    color: #646464;
+
+}
+
+.input_box_name {
+    background: #EEEEEE;
+    color: #646464;
+}
+
+.input_box_surname {
+    background: #EEEEEE;
+    color: #646464;
+}
+
+.input_box_mail {
+    background: #EEEEEE;
+    color: #646464;
+}
+
+.sign_up_button {
+    background: #37806B;
+    color: white;
+}
+
+.sign_up_button:hover {
+    background: white;
+    color: #37806B;
+}
+
+.input_box label {
+    color: grey;
+}
+
+.twenty_years_button {
+    background: #37806B;
+    color: white;
+
+}
+
+.twenty_years_button:hover {
+    background: white;
+    color: #37806B;
+}
+
+.work {
+    background: #F8F8F8;
+}
+
+.work_statistic1,
+.work_statistic2,
+.work_statistic3,
+.work_statistic4 {
+    background: #FFFFFF;
+    box-shadow: 0px 13px 16px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 13px 16px rgba(0, 0, 0, 0.1);
+
+}
+
+.weather {
+    background-color: #37806B;
+    box-shadow: 0 0 10px black;
+
+}
+
+.weather_city {
+    color: white;
+}
+
+.weather_temp {
+    color: white;
+}
+
+
+.change-theme [data-theme="dark"] {
+    display: block;
+}
+
+.change-theme [data-theme="light"] {
+    display: none;
+}

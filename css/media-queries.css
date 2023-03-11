@@ -1,0 +1,620 @@
+@media only screen and (max-width: 760px) {
+    .project_body {
+        width: 750px;
+        height: 8586px;
+        border: 3px solid black;
+        overflow: hidden
+    }
+
+    .project_header {
+        margin-left: 2px;
+        margin-top: 2px;
+    }
+
+
+    .nav_img {
+        width: 150.76px;
+        height: 46.04px;
+        margin-top: 10px;
+        margin-left: 105px;
+    }
+
+    .main_menu {
+        margin-left: 50px;
+        margin-top: 60px;
+
+    }
+
+    .main_menu_item {
+        font-weight: 600;
+        line-height: 22px;
+        filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)) drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    }
+
+    .main_menu a {
+        text-decoration: none;
+        padding: 17px;
+        color: #212832;
+
+    }
+
+    .main_menu li {
+        display: flex;
+
+    }
+
+    .main_menu_link {
+        padding: 29px;
+        font-size: 17px;
+        line-height: 22px;
+        color: #212832;
+        text-decoration: none;
+    }
+
+    .nav_btn {
+        margin-left: 100px;
+        margin-top: 500px;
+        position: absolute;
+    }
+
+    .modern_interior {
+        margin-top: 100px;
+        margin-left: 270px;
+    }
+
+    .modern_interior_text {
+        margin-top: -60px;
+    }
+
+    .modern_interior_header {
+        width: 375.65px;
+        margin-top: 15px;
+    }
+
+    .modern_interior_info {
+        width: 375.65px;
+        margin-top: 70px;
+    }
+
+    .modern_interior_button {
+        margin-top: 10px;
+    }
+
+    .modern_interior_button:hover {
+        background: white;
+        color: #37806B;
+        border: 2px #37806B solid;
+
+    }
+
+    .modern_interior_img {
+        margin-left: 635px;
+        margin-top: -420px;
+    }
+
+    .footer_group {
+        width: 1880px;
+        height: 753px;
+        left: 8px;
+        margin-top: 240px;
+
+    }
+
+    .footer_img {
+        left: 314px;
+        top: 8000px;
+
+    }
+
+    .footer_img_text {
+        left: 264px;
+        top: 8045px;
+    }
+
+    .footer_links {
+        left: 50px;
+        top: 8200px;
+    }
+
+    .fotter_company {
+        left: 300px;
+        top: 8200px;
+    }
+
+    .fotter_contact {
+        left: 500px;
+        top: 8200px;
+    }
+
+    .fotter_follow {
+        left: 96px;
+        top: 8450px;
+    }
+
+    .footer_social {
+        left: 300.07px;
+        top: 8460px;
+    }
+
+    .footer_social_img {
+        width: 37.17px;
+        height: 37.17px;
+        padding: 5px;
+    }
+
+    .create_line {
+        top: 8450px;
+    }
+
+    .footer_year {
+        position: absolute;
+        left: 871px;
+        top: 7510px;
+        font-weight: 600;
+        font-size: 18px;
+
+    }
+
+    .footer_year_info {
+        left: 761px;
+        top: 7520px;
+        font-size: 18px;
+        line-height: 25px;
+    }
+
+    .ui-progress-bar {
+        margin-top: 3em;
+        margin-bottom: 3em;
+    }
+
+    .ui-progress span.ui-label {
+        font-size: 1.2em;
+        position: absolute;
+        right: 0;
+        line-height: 33px;
+        padding-right: 12px;
+    }
+
+    .what_we_do {
+        width: 540.36px;
+        height: 779.61px;
+        margin-top: 150px;
+    }
+
+    .what_we_do_subtitle {
+        margin-left: 229px;
+        margin-top: -150px;
+    }
+
+    .what_we_do_title {
+        margin-left: 229px;
+        margin-top: -100px;
+    }
+
+    .list {
+        margin-left: 175px;
+    }
+
+    .list_item {
+        margin-top: 115px;
+        margin-left: 190px;
+        display: inline-block;
+        text-align: center;
+        margin: 15px;
+    }
+
+    .list_item:hover {
+        background: white;
+        border: 5px #37806B solid;
+        color: #37806B;
+
+    }
+
+    li:before {
+        content: "";
+        display: inline-block;
+        height: 100%;
+        vertical-align: middle;
+    }
+
+    .block {
+        display: grid;
+    }
+
+    .block_row {
+        display: flex;
+    }
+
+    .block_item {
+        width: 477.23px;
+        margin-left: 100px;
+        margin-top: 50px;
+    }
+
+    .about_us {
+        margin-top: 550px;
+    }
+
+    .about_img {
+        margin-left: 70px;
+    }
+
+    .about_subtitle {
+        margin-left: 210px;
+        margin-top: -630px;
+
+    }
+
+    .about_title {
+        margin-left: 210px;
+        font-size: 48px;
+
+    }
+
+    .about_text {
+        position: absolute;
+        width: 543.8px;
+        margin-left: 1100px;
+        font-size: 18px;
+        line-height: 30px;
+        margin-top: 170px;
+
+    }
+
+    .about_button {
+        margin-left: 210px;
+        margin-top: 2 50px;
+
+    }
+
+    .testimonials {
+        margin-left: 50px;
+        margin-top: 100px;
+        height: 300px;
+    }
+
+    .testimonials_title {
+        left: 200px;
+        top: 4800px;
+
+    }
+
+    .testimonials_text {
+        left: 200px;
+        top: 4800px;
+    }
+
+    .slider_next {
+        height: 50px;
+        width: 50px;
+        margin-left: 70px;
+    }
+
+    .slider {
+        width: 1053px;
+        height: 226px;
+        margin-left: 140px;
+        margin-top: 30px;
+        overflow: hidden;
+    }
+
+    .slider_line {
+        width: 3163px;
+        height: 226px;
+        background: white;
+        display: flex;
+        position: relative;
+    }
+
+    .slider_prev {
+        margin-left: 150px;
+        height: 50px;
+        width: 50px;
+    }
+
+    .news {
+        position: absolute;
+        width: 1920px;
+        height: 1021px;
+        left: 5px;
+        margin-top: 350px;
+
+    }
+
+    .news_subtitle {
+        position: absolute;
+        width: 324px;
+        height: 28px;
+        left: 200px;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 28px;
+
+    }
+
+    .news_title {
+        position: absolute;
+        width: 500px;
+        height: 28px;
+        left: 200px;
+        font-size: 48px;
+        margin-top: 50px;
+    }
+
+    .news_block1 {
+        left: 102px;
+        margin-top: 150px;
+    }
+
+    .news_block2 {
+        position: absolute;
+        width: 673px;
+        height: 645.43px;
+        left: 106px;
+        margin-top: 850px;
+    }
+
+    .news_block_title {
+        font-weight: 600;
+        font-size: 30px;
+        line-height: 28px;
+    }
+
+    .news_block_text {
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 28px;
+        opacity: 0;
+
+    }
+
+    .news_block_text.element-show {
+        opacity: 1;
+        transition: opacity 5s;
+    }
+
+    .news_block_button {
+        border-radius: 25px 0px;
+        width: 271px;
+        height: 53.06px;
+        margin-top: 45px;
+    }
+
+    .news_block1_info:hover,
+    .news_block2_info:hover {
+        height: 750px;
+        width: 550px;
+        position: absolute;
+        text-align: center;
+    }
+
+    .sign_up {
+        left: 100.01px;
+        top: 7015px;
+    }
+
+    .sign_up_title {
+        font-size: 48px;
+        line-height: 28px;
+        letter-spacing: 0.08em;
+        margin-left: 25px;
+    }
+
+    .sign_up_text {
+        height: 56px;
+        font-size: 18px;
+        line-height: 28px;
+        text-align: center;
+        width: 580px;
+        margin-left: 90px;
+    }
+
+    .sign_up_container {
+        position: relative;
+        display: flex;
+        flex-wrap: nowrap;
+        justify-content: space-between;
+        align-items: center;
+
+    }
+
+    .wrapper {
+        margin-top: 2400px;
+        margin-left: -250px;
+    }
+
+    .input_box_name {
+        width: 270px;
+        height: 48px;
+        border-radius: 20px 0px;
+        text-align: center;
+        color: #646464;
+    }
+
+    .input_box_surname {
+        width: 270px;
+        height: 50px;
+        border-radius: 20px 0px;
+        text-align: center;
+        margin-left: -200px;
+    }
+
+    .input_box_mail {
+        width: 550px;
+        height: 50px;
+        margin-top: 30px;
+        border-radius: 20px 0px;
+        text-align: center;
+    }
+
+    .sign_up_button {
+        margin-top: 80px;
+        margin-left: 0;
+    }
+
+    .input_box {
+        height: 80px;
+        width: 300px;
+    }
+
+    .input_box label {
+        font-size: 14px;
+        padding-left: 15px;
+
+    }
+
+    .twenty_years {
+        margin-top: 150px;
+
+    }
+
+    .twenty_years_img {
+        margin-left: 1120px;
+        margin-top: -750px;
+    }
+
+    .twenty_years_twenty {
+        margin-left: 200px;
+        margin-bottom: 150px;
+
+    }
+
+    .twenty_years_button {
+        width: 174.59px;
+        height: 43.86px;
+        border-radius: 20px 0px;
+        margin-left: 200px;
+        margin-top: -20px;
+    }
+
+    .work {
+        padding-bottom: 250px;
+        padding-top: 80px;
+        height: 650px;
+    }
+
+    .work_container {
+        margin: 0 auto;
+        max-width: 1560px;
+        padding: 35px;
+    }
+
+    .work_title {
+        position: absolute;
+        width: 521px;
+        height: 120px;
+        left: 149px;
+        margin-top: -50px;
+        font-size: 48px;
+        line-height: 60px;
+        text-align: center;
+
+    }
+
+    .work_group {
+        display: flex;
+        margin-top: 50px;
+        align-items: center;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        height: 182px;
+        justify-content: center;
+        width: 185px;
+    }
+
+    .work_statistic1,
+    .work_statistic2,
+    .work_statistic3,
+    .work_statistic4 {
+        width: 185px;
+        height: 182px;
+        position: absolute;
+
+    }
+
+    .work_statistic1 {
+        margin-left: 300px;
+        margin-top: 180px;
+
+    }
+
+    .work_statistic2 {
+        margin-left: 700px;
+        margin-top: 330px;
+    }
+
+    .work_statistic3 {
+        margin-left: 300px;
+        margin-top: 780px;
+    }
+
+    .work_statistic4 {
+        margin-left: 700px;
+        margin-top: 930px;
+    }
+
+    .work_statistic_card_value {
+        font-weight: 700;
+        font-size: 60px;
+        line-height: 0;
+        text-align: center;
+
+    }
+
+    .work_statistic_card_name {
+        text-align: center;
+    }
+
+    .weather {
+        border-radius: 10px;
+        padding: 20px;
+        max-width: 250px;
+        margin: 0 auto;
+        margin-top: 2150px;
+    }
+
+    .weather_loading {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .weather_loading img {
+        max-width: 50px;
+    }
+
+    .weather_header {
+        display: flex;
+    }
+
+    .weather_main {
+        flex: 1 1 auto;
+    }
+
+    .weather_city {
+        font-size: 40px;
+        font-weight: 700;
+        margin-bottom: 15px;
+    }
+
+    .weather_status {
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+
+    .weather_temp {
+        font-size: 30px;
+        font-weight: 700;
+        margin-bottom: 10px;
+    }
+
+    .theme {
+        position: fixed;
+        cursor: pointer;
+        top: 50%;
+        left: 10px;
+        padding: 10px;
+    }
+
+}

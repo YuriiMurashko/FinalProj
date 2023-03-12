@@ -10,7 +10,7 @@ document.querySelector('.slider_next').addEventListener('click', function () {
 });
 
 document.querySelector('.slider_prev').addEventListener('click', function () {
-    offset = offset - 1055;
+    offset = offset - 1053;
     if (offset < 0 ){
         offset = 2108;
     }

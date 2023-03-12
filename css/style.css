@@ -129,7 +129,6 @@
 }
 
 .main_menu {
-  position: absolute;
   margin-left: 422px;
   width: 1000px;
 }
@@ -167,7 +166,7 @@
 }
 
 .nav_btn {
-  width: 95.24px;
+  width: 115.24px;
   height: 33.35px;
   background: #CAA892;
   border-radius: 15px 0px;
@@ -364,6 +363,7 @@
   position: fixed;
   top: 0;
   bottom: 0;
+  z-index: 4;
 }
 
 #progressbarline {
@@ -607,7 +607,7 @@ i {
   position: absolute;
   width: 500px;
   height: 28px;
-  left: 827px;
+  left: 797px;
   font-size: 48px;
   color: #111111;
   margin-top: 50px;
@@ -698,8 +698,8 @@ i {
 
 #example1 .div_opacity {
   -webkit-transition: opacity 0.2s ease-in-out;
-  -webkit-transition: opacity 12.5s ease-in-out;
-  transition: opacity 12.5s ease-in-out;
+  -webkit-transition: opacity 39.5s ease-in-out;
+  transition: opacity 39.5s ease-in-out;
   opacity: 1;
 }
 
@@ -720,8 +720,8 @@ i {
 
 #example2 .div_opacity {
   -webkit-transition: opacity 0.2s ease-in-out;
-  -webkit-transition: opacity 12.5s ease-in-out;
-  transition: opacity 12.5s ease-in-out;
+  -webkit-transition: opacity 39.5s ease-in-out;
+  transition: opacity 39.5s ease-in-out;
   opacity: 1;
 }
 
@@ -782,6 +782,10 @@ i {
   border-radius: 20px 0px;
   text-align: center;
   color: #646464;
+  margin-left: -30px;
+}
+
+.label_surname {
   margin-left: -30px;
 }
 

@@ -141,8 +141,9 @@
 }
 
 .main_menu_item:hover a {
-  border: 0.5px solid black;
+  border: 0.5px solid #37806B;
   color: #37806B;
+  border-radius: 25px;
 }
 
 .main_menu a {
@@ -176,11 +177,12 @@
   margin-right: -200px;
   margin-top: 10px;
   color: white;
+  text-decoration: none;
 }
 
-.nav_btn a {
-  text-decoration: none;
-  color: white;
+.nav_btn_text {
+  text-align: center;
+  margin-top: 4px;
 }
 
 .nav_btn:hover {
@@ -299,6 +301,11 @@
   display: flex;
   left: 1426.07px;
   top: 7255px;
+}
+
+.footer_social_img:hover {
+  border: 1px solid #37806B;
+  border-radius: 100%;
 }
 
 .footer_social_img {
@@ -870,6 +877,21 @@ i {
   margin: 0 auto;
   max-width: 1560px;
   padding: 35px;
+}
+
+.work_container_vector1 {
+  margin-left: 650px;
+  margin-top: 350px;
+}
+
+.work_container_vector2 {
+  margin-left: 1350px;
+  margin-top: -150px;
+}
+
+.work_container_vector3 {
+  margin-left: 2050px;
+  margin-top: -100px;
 }
 
 .work_title {

@@ -19,7 +19,8 @@
     border: 1px solid white;
 
 }
-.main_menu_item:hover a{
+
+.main_menu_item:hover a {
     border: 0.5px solid #37806B;
     color: #e1e3e3;
 }
